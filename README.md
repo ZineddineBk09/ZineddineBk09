@@ -4,7 +4,6 @@
 - 🎓 I’m currently a computer science student at **University of Sciences Technology Houari Boumediene -USTHB-**
 
 - 📫 You can reach me at **benkhaledzineddine@gmail.com**
-- 📫 OR **benkhaledzineddine@gmail.com**
 
 # 🛠 Languages and Tools:
 
