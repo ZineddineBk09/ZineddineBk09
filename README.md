@@ -1,9 +1,10 @@
 # Hi 👋, I'm Zineddine Benkhaled
 ### A Fullstack web developer from Algeria 🇩🇿🇩🇿
 
-- 🎓 I’m currently a computer science student at **Université des Sciences et de la Technologie Houari Boumediene Algeria -USTHB-**
+- 🎓 I’m currently a computer science student at **University of Sciences Technology Houari Boumediene -USTHB-**
 
 - 📫 You can reach me at **benkhaledzineddine@gmail.com**
+- 📫 OR **benkhaledzineddine@gmail.com**
 
 # 🛠 Languages and Tools:
 
