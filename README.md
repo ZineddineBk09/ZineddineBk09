@@ -25,10 +25,13 @@
   > ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 - ## 💻 OS
-  > ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  > ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   > 
   > ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  >
+  > ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   > 
+  
 - ## 👩‍💻 IDE
 
   > ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
