@@ -22,16 +22,16 @@
 
 - ## 🚀 Frameworks and Technologies
 
-  > ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vue](https://img.shields.io/badge/-React-333333?style=flat&logo=vue) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-333333?style=flat&logo=tailwindcss) 
+  > ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-333333?style=flat&logo=tailwindcss) 
 
 - ## 💻 OS
   > ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   > 
-  > ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  > ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
   >
   > ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   > 
-  > ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=kali-linux&logoColor=white)
+  > ![Kali](https://img.shields.io/badge/Kali_Linux-E95420?style=for-the-badge&logo=kali-linux&logoColor=white)
   > 
   
 - ## ⌨️ IDE
