@@ -38,11 +38,6 @@
 
   > ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- ## 🖥 Office
-  > ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-  > ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-  > ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  > ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 # 📊 Github stats
 
@@ -50,6 +45,3 @@
 
 # [![Zineddine's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZineddineBk09&theme=blue-green)](https://https://github.com/ZineddineBk09/github-readme-streak-stats)
 
-# [![Zineddine's github stats](https://github-readme-stats.vercel.app/api?username=ZineddineBk09&theme=blue-green)](https://github.com/ZineddineBk09/github-readme-stats)
-
-# [![Zineddine's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZineddineBk09&theme=blue-green)](https://github.com/ZineddineBk09/github-readme-stats)
