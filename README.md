@@ -1,9 +1,9 @@
 # 💻 Technologies
 
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vercel,tailwind&perline=7" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,nest,django&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,firebase,mongo&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase,mongo&perline=7" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,ubuntu,kali&perline=7" /><br/>
   </a>
 
