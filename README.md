@@ -1,7 +1,10 @@
 # 💻 Technologies
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,node,nest,postgres,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,django&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,mongo&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,kali&perline=7" /><br/>
   </a>
 
 # 📊 Github stats
